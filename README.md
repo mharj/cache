@@ -1,4 +1,4 @@
-# PHP cache
+# PHP callback cache
 
 generic key/value cache system via callback
 ```php
