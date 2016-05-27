@@ -25,7 +25,7 @@ $value = $cache->get($key, function() {
     return "value";
 });
 ```
-Installation:
+Composer installation:
 ```
 "require": {
     "mharj/cache": "*"
